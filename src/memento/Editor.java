@@ -4,7 +4,14 @@ import java.util.Stack;
 
 public class Editor {
     private String content;
-    private Stack myStack = new Stack<>();
+
+    public EditorState createState() {
+        return new EditorState(content);
+    }
+
+    public void restore(EditorState state) {
+        content = state.getContent();
+    }
 
     public String getContent() {
         return content;
@@ -12,15 +19,5 @@ public class Editor {
 
     public void setContent(String content) {
         this.content = content;
-        myStack.push(content);
-    }
-
-    public void undo() {
-        if (!myStack.isEmpty()) {
-            myStack.pop();
-
-            if (!myStack.isEmpty())
-                content = (String) myStack.peek();
-        }
     }
 }
