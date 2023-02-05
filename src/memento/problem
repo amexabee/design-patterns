@@ -1,2 +1,7 @@
-The problem the memento pattern tries to solve is as follows:
+Usage: We use this pattern for implementing undo mechanisms.
+
+Problem description:
+
+The problem it tries to solve is to provide a way to capture and store the internal state of an object
+so that it can be restored at a later time without violating encapsulation and single responsibility principle.
 
