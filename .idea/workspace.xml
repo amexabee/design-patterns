@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0f2d5f-bf33-412f-b3bc-d635bf30f1ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/state/BrushTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/EraserTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/SelectionTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/BrowseHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,7 +52,7 @@
   </component>
   <component name="RunManager">
     <configuration name="myMain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="state.Main" />
+      <option name="MAIN_CLASS_NAME" value="iterator.Main" />
       <module name="design-patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
