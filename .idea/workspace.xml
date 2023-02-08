@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +49,7 @@
   </component>
   <component name="RunManager">
     <configuration name="myMain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="state.Main" />
+      <option name="MAIN_CLASS_NAME" value="iterator.Main" />
       <module name="design-patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
