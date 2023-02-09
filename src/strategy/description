@@ -1,0 +1,4 @@
+
+   Strategy pattern looks much like state pattern with a slight difference.
+In state pattern the main/context class we just have a single state whereas
+in strategy we may have more than one.
