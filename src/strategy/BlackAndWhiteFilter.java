@@ -1,8 +1,8 @@
 package strategy;
 
-public class BWFilter implements Filter {
+public class BlackAndWhiteFilter implements Filter {
     @Override
-    public void filter() {
+    public void apply(String fileName) {
         System.out.println("Applying B&W filter");
     }
 }

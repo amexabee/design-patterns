@@ -1,5 +1,5 @@
 package strategy;
 
 public interface Compressor {
-    void compress();
+    void compress(String fileName);
 }

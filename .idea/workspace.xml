@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0f2d5f-bf33-412f-b3bc-d635bf30f1ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/BWFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/HighContrastFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/description" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/BWFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/BlackAndWhiteFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/HighContrastFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/HighContrastFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategy/ImageStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/ImageStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/JPEGCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/JPEGCompressor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/PNGCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/PNGCompressor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

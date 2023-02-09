@@ -1,5 +1,5 @@
 package strategy;
 
 public interface Filter {
-    void filter();
+    void apply(String fileName);
 }
