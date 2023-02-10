@@ -1,14 +1,8 @@
 package template;
 
-public class GenerateReportTask {
-    private AuditTrial auditTrial;
-
-    public GenerateReportTask(AuditTrial auditTrial) {
-        this.auditTrial = auditTrial;
-    }
-
-    public void execute() {
-        auditTrial.record();
+public class GenerateReportTask extends Task {
+    @Override
+    protected void doExecute() {
         System.out.println("Generate Report");
     }
 }
