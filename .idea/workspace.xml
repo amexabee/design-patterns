@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0f2d5f-bf33-412f-b3bc-d635bf30f1ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/template/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/AddCustomerCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/fx/Command.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/GenerateReportTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/GenerateReportTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/TransferMoneyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/TransferMoneyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/fx/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +49,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="command" />
       <recent name="state" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="myMain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="template.Main" />
+      <option name="MAIN_CLASS_NAME" value="command.Main" />
       <module name="design-patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
