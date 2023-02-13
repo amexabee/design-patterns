@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0f2d5f-bf33-412f-b3bc-d635bf30f1ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/template/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/GenerateReportTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/GenerateReportTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/TransferMoneyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/TransferMoneyTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
